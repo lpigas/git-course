@@ -8,3 +8,4 @@ console.log('test')
 
 
 const add = document.getElementById('div')
+const alert = alert('idi nafig')
