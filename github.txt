@@ -1,0 +1,8 @@
+при создании папки на гитхабе (репозиторий), выбираем приват или общий доступ
+добавить файл описание readme.md
+добавить файл описание gitignore.txt
+git remote add origin https://github.com
+/lpigas/git-course.git = добавить папку на гитхабе куда сохранять файлы
+git push -u origin main - добавить все изменения в етку 
+git branch -M main - изменение имени ветки
+

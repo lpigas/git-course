@@ -7,3 +7,9 @@ $ git branch <name vetki> - создание  ветки
 $ git branch -D <name vetki> - удаление ветки 
 git checkout <имя> - смена ветки
 git checkout -b name - переход в новую ветку с созданием ее
+git merge lpigas - добавление ветки в основную 
+
+
+
+
+
