@@ -1,0 +1,1 @@
+const cons = 0
