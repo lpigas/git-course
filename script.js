@@ -5,3 +5,6 @@ console.log('test')
 console.log('test')
 console.log('test')
 console.log('test')
+
+
+const add = document.getElementById('div')
